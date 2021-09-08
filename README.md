@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spkanungo
+- 👋 Hi, I’m @spkanungo
 - 👀 I’m interested in ...SOFTWARE DEVLOPEMENT
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...
