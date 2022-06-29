@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spkanungo
 - 👀 I’m interested in ...SOFTWARE DEVLOPEMENT
 - 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on a project called Banking Management System
+- 💞️ I’m looking to enhance my PROGRAMMING KNOWLEDGE
 - 📫 How to reach me https://www.linkedin.com/in/sarada-prasanna-kanungo/
 
 <!---
